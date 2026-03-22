@@ -38,3 +38,5 @@ The network is structured as follows:<br>
 
 You have been provided with the IP Address Block of 10.10.0.0/24 for LAN connections and 192.168.50.0/24 for inter-router connections.<br>
 
+<br>
+<img width="1289" height="747" alt="image" src="https://github.com/user-attachments/assets/8fa4f115-d920-4f79-a0ab-4ca597f2ef5d" />
